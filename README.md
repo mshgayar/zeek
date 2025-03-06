@@ -1,2 +1,2 @@
-# zeek Zeek Installation Guide: A Comprehensive Walkthrough
+# Zeek Installation Guide: A Comprehensive Walkthrough
 
