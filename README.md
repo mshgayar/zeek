@@ -1,2 +1,2 @@
-# zeek
-Zeek Sensor installation
+# zeek Zeek Installation Guide: A Comprehensive Walkthrough
+
