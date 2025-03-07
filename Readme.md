@@ -3,10 +3,8 @@ In this guide we are going to demonstrate how to build a phyiscal sensor using z
 
 ### About Zeek,purpose and use cases
 
-* About Zeek and zeek logs
-* Zeek Vs IDS/IPS Suricata
-* Zeek Deployment Archtitecture and High Avaialbility 
-* What is an NDR, Why we need Zeek, Zeek and IDS Suricata for best NDR threat detecting value
+* [About Zeek, Zeek Vs IDS/IPS Suricata and Zeek Deployment Archtitecture and High Avaialbility](https://github.com/mshgayar/zeek/blob/main/aboutzeek.md)
+* [Zeek Logs and threat detections](https://github.com/mshgayar/zeek/blob/main/Zeek%20Logs%20and%20Associated%20Threats.md)
 
 ### Zeek Installations Guide & Network interfaces configurations and tuning
 * Zeek Cluster Installation Requirements 
