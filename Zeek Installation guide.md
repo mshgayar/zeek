@@ -2,14 +2,13 @@
 
 A Zeek cluster is required for high-performance network monitoring, especially when dealing with high-throughput network traffic. Below are the hardware, software, and configuration requirements to set up a Zeek cluster.
 
-### 1. Hardware Requirements
+###  Hardware Requirements
 *Minimum Hardware Requirements (for Small Deployments)*
 
 * CPU: 4+ cores
 * RAM: 8GB+
 * Storage: 100GB SSD (log storage)
 * Network Interface: 1Gbps or higher (dedicated sniffing interface)
-
 
 *Recommended Hardware (for Medium to Large Deployments)* 
 
@@ -22,7 +21,7 @@ A Zeek cluster is required for high-performance network monitoring, especially w
 * Recommended OS
 	* Ubuntu 22.04 LTS (Preferred)
 
---
+---
 ### Full lab requireemtns ( Network Tap, Zeek Sensor and Splunk Server)
 
 *  Phyiscal Server ( DELL) : This will be deployed to function as zeek sensor 
@@ -38,4 +37,4 @@ A Zeek cluster is required for high-performance network monitoring, especially w
 * Splunk Server : 
 	* Virtual Machine : Ubuntu OS installed with latest splunk server
 	* Network IP : 192.168.1.145
---
+---
