@@ -38,5 +38,4 @@ A Zeek cluster is required for high-performance network monitoring, especially w
 * Splunk Server : 
 	* Virtual Machine : Ubuntu OS installed with latest splunk server
 	* Network IP : 192.168.1.145
-
 --
