@@ -67,13 +67,13 @@ A Zeek cluster is required for high-performance network monitoring, especially w
 
 --
 
-####Installation Steps####
-* Network TAP Port tuning : 
-	* Minimize packet loss and ensure Zeek sees full packet data by applying network sniffing optimizations: settings max ring parameters, disabling NIC offloading, and enabling promiscuous mode.
-*     Build Zeek from source with optimizations & jemalloc.
-*     Create a non-root Zeek user to minimize impact in the event that Zeek is compromised.
-*     Deploy and run Zeek to start analyzing traffic.
-*     Create a cron job to perform Zeek maintenance tasks.
+#### Installation Steps ####
+
+* Network TAP Port tuning :  Minimize packet loss and ensure Zeek sees full packet data by applying network sniffing optimizations: settings max ring parameters, disabling NIC offloading, and enabling promiscuous mode.
+* Build Zeek from source with optimizations & jemalloc.
+* Create a non-root Zeek user to minimize impact in the event that Zeek is compromised.
+* Deploy and run Zeek to start analyzing traffic.
+* Create a cron job to perform Zeek maintenance tasks.
 
 **Step 1 : Network TAP Port Tuning**
 
