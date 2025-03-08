@@ -6,7 +6,7 @@ In this guide we are going to demonstrate how to build a phyiscal sensor using z
 * [About Zeek, Zeek Vs IDS/IPS Suricata and Zeek Deployment Archtitecture and High Avaialbility](https://github.com/mshgayar/zeek/blob/main/aboutzeek.md)
 * [Zeek Logs and threat detections](https://github.com/mshgayar/zeek/blob/main/Zeek%20Logs%20and%20Associated%20Threats.md)
 
-### [Zeek Installation Guide : Full Walkthrough ](https://github.com/mshgayar/zeek/blob/main/Zeek%20Installation%20guide)
+### [Zeek Installation Guide : Full Walkthrough ](https://github.com/mshgayar/zeek/blob/main/Zeek%20Installation%20guide.md)
 * Zeek Cluster Installation Requirements 
 * Full lab requireemtns ( Network Tap, Zeek Sensor and Splunk Server) 
 * Installation Steps 
